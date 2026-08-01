@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 # --- [ CONFIGURATION ] ---
 BOT_TOKEN = "8946367857:AAGpDdtG2ZFMG2HeZh-Ve_Ey13pyW-_xVaU"
 DEVELOPER_ID = "@anujedits76"  # Developer ID
-ADMIN_IDS = [5885830322]  # Add admin user IDs here
+ADMIN_IDS = [8730393744]  # Add admin user IDs here
 
 bot = Bot(token=BOT_TOKEN, default=DefaultBotProperties(parse_mode="HTML"))
 dp = Dispatcher()
