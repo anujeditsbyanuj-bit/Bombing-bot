@@ -16,8 +16,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(level
 logger = logging.getLogger(__name__)
 
 # --- [ CONFIGURATION ] ---
-BOT_TOKEN = "8405473868:AAH7CsTJd8OqpRigAhHI_eN-ipBUBmm7ihE"
-DEVELOPER_ID = "@botadminshere"  # Developer ID
+BOT_TOKEN = "8946367857:AAGpDdtG2ZFMG2HeZh-Ve_Ey13pyW-_xVaU"
+DEVELOPER_ID = "@anujedits76"  # Developer ID
 ADMIN_IDS = [5885830322]  # Add admin user IDs here
 
 bot = Bot(token=BOT_TOKEN, default=DefaultBotProperties(parse_mode="HTML"))
